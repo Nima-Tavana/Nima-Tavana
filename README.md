@@ -79,3 +79,9 @@
 <a href="https://github.com/Nima-Tavana">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nima-Tavana&theme=2077" height="180em" />
 </div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/nima-tavana/nima-tavana/output/snake.svg" alt="Snake animation" />
+
+###
