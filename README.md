@@ -3,7 +3,12 @@
 
 ###
 
-<h2 align="center">Hi 👋, I'm Nima Tavana</h2>
+## Hi, I'm Nima Tavana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=4%>
+
+
+
+<p><a href="" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://www.linkedin.com/in/nima-tavana-714797285/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ###
 
