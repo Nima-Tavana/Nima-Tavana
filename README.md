@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently a software engineer in Yazd university.<br><br>🌱 I’m currently learning web design and it's frameworks.<br><br>📫 How to reach me Nimatavana9207@gmail.com</p>
+<p align="left">🔭 I’m currently a software engineer in Yazd university.<br><br>🌱 I’m currently learning web design and it's frameworks.<br><br>📫 How to reach me Nimatvna@gmail.com</p>
 
 ###
 
